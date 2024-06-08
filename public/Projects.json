@@ -1,0 +1,99 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend",
+    "banner": "/image",
+    "description": "This section features a collection of my latest creations, including landing pages and static website templates. I've poured my creativity and expertise into crafting visually stunning and user-friendly designs that are sure to captivate and engage visitors. take a look around and see how my designs can elevate your online presence and leave a lasting impression on your audience.",
+    "projects": [
+      {
+        "id": 1,
+        "type": "Mob store",
+        "size": "regular",
+        "name": "A quality product seller",
+        "date": "sep 2023",
+        "logo": "https://i.ibb.co/s9Z6wHz/logo.png",
+        "image": "https://i.ibb.co/nDdqz5T/mob-store.png",
+        "description": "At the heart of our digital storefront lies an enticing landing page that encapsulates the essence of our brand. Here, you'll find a harmonious blend of elements designed to enhance your shopping experience and provide you with a glimpse into our world. (keep updating this site)",
+        "live": "https://mob-store.vercel.app/",
+        "gitHubClient": "https://github.com/mahfuzurrahman01/mob_store"
+      },
+      {
+        "id": 2,
+        "type": "Weather app",
+        "size": "banner",
+        "name": "Step into a world of weather wonder",
+        "date": "Aug 2023",
+        "logo": "https://i.ibb.co/X2Gdhht/weather-app-icon-4.png",
+        "image": "https://i.ibb.co/db9W7pc/screencapture-weather-app-mahfuzurrahman01-vercel-app-2023-08-18-11-46-08.png",
+        "description": "I Create a Weather App! For acquiring knowledge about the fundamentals of APIs, such as retrieving and presenting data on the user interface, these types of projects are good for JS Fundaments Skills. 🎯The Weather App is a web application that fetches real-time weather data from the OpenWeather API and presents it to the user. And I've tried to make a simple and cool UI. Using: NextJs, Typescript, tailwind, Open API",
+        "live": "https://weather-app-mahfuzurrahman01.vercel.app//",
+        "gitHubClient": "https://github.com/mahfuzurrahman01/weather-app"
+      },
+      {
+        "id": 3,
+        "type": "Gitto Profile",
+        "size": "banner",
+        "name": "Get a nice github profile card",
+        "date": "Aug 2023",
+        "logo": "https://i.ibb.co/bJPBkmq/gitto-logo.png",
+        "image": "https://i.ibb.co/0BqJGbK/gitt0.png",
+        "description": "Introducing Gitto Profile, a delightful project I crafted using Next.js, TypeScript, and Tailwind CSS! 🚀</br> With Gitto Profile, users can effortlessly generate personalized GitHub profile cards by simply entering their GitHub username. This nifty tool then fetches and displays essential information from their GitHub profile in a visually appealing and concise format.",
+        "live": "https://gitto-profile.vercel.app/",
+        "gitHubClient": "https://github.com/mahfuzurrahman01/gitto-profile"
+      },
+      {
+        "id": 4,
+        "type": "Password generator",
+        "name": "Strong password generator",
+        "date": "Feb 2023",
+        "logo": "https://i.ibb.co/0cLMLP2/logo.png",
+        "image": "https://i.ibb.co/PchytgG/screencapture-password-mahfuzurrahman01-vercel-app-2023-03-31-23-14-42.png",
+        "size": "banner",
+        "description": "I am developing a web application that generates a strong and unique random password every time the user clicks on the 'generate' button. The application offers three options for the length of the generated password, allowing users to select a short, medium, or long password according to their specific requirements",
+        "live": "https://password-mahfuzurrahman01.vercel.app/",
+        "gitHubClient": "https://github.com/mahfuzurrahman01/random-strong-password-generator"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Full stack",
+    "banner": "/image",
+    "description": "Welcome to the Full Stack MERN projects section of my portfolio. Here, you'll find a collection of web applications that I've built from the ground up using the MERN stack.Whether you're interested in e-commerce, social media, or other web applications, I'm confident that you'll find something of interest in this section.",
+    "projects": [
+      {
+        "id": 1,
+        "size": "regular",
+        "type": "Service-provider",
+        "name": "D-vacuum",
+        "date": "Oct 2022",
+        "logo": "https://i.ibb.co/qNXNYmR/d-vacuum.png",
+        "image": "https://i.ibb.co/Y2pzt3b/screencapture-d-vacuum-a11-web-app-2023-03-25-23-51-25.png",
+        "description": "D-vacuum is a B2C service project that aims to create a user-friendly website for a client's business. The website will enable the client to upload their services and allow customers to purchase/book any service they need. Additionally, every service will have a real-time review section where users can view others' reviews and add their own. Users can also modify their reviews as needed. Finally, the client can easily update their services as necessary to keep the website current and relevant.",
+        "live": "https://d-vacuum-a11.web.app/",
+        "gitHubClient": "https://github.com/mahfuzurrahman01/d-vacuum-client",
+        "gitHubServer": "https://github.com/mahfuzurrahman01/d-vacuum-server"
+      },
+      {
+        "id": 2,
+        "type": "E-commerce",
+        "size": "regular",
+        "name": "V-Furniture",
+        "date": "Nov 2022",
+        "logo": "https://i.ibb.co/x82gKpd/V-Furniture.png",
+        "image": "https://i.ibb.co/9GcG1V3/screencapture-v-furniture-ef0e9-web-app-2023-03-26-00-16-50.png",
+        "description": "Urban Furniture is an e-commerce website that offers a personalized dashboard system based on the user's role. When creating an account, users can select whether they want to be a buyer or a seller, and their dashboard will reflect their choice. Additionally, the admin has a separate dashboard where they can manage sellers and buyers and get updates on the business. Sellers can easily update their products, edit their details, and boost them for better visibility on the front page. Buyers can add items to their cart, create a wishlist, and securely make payments via card payment.",
+        "live": "https://v-furniture-ef0e9.web.app/",
+        "gitHubClient": "https://github.com/mahfuzurrahman01/urban-furniture-client",
+        "gitHubServer": "https://github.com/mahfuzurrahman01/urban-furniture-server"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Real life",
+    "banner": "/image",
+    "description": "Welcome to my real life projects showcase! Here, I'm excited to share with you some of the recent projects I've had the opportunity to work on. Each project represents a unique challenge that required careful planning, collaboration, and execution. ",
+    "projects": []
+  }
+]
