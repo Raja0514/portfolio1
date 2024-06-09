@@ -14,8 +14,8 @@
         "logo": "https://i.ibb.co/s9Z6wHz/logo.png",
         "image": "https://i.ibb.co/nDdqz5T/mob-store.png",
         "description": "At the heart of our digital storefront lies an enticing landing page that encapsulates the essence of our brand. Here, you'll find a harmonious blend of elements designed to enhance your shopping experience and provide you with a glimpse into our world. (keep updating this site)",
-        "live": "https://mob-store.vercel.app/",
-        "gitHubClient": "https://github.com/mahfuzurrahman01/mob_store"
+        "live": "",
+        "gitHubClient": ""
       },
       {
         "id": 2,
@@ -26,8 +26,8 @@
         "logo": "https://i.ibb.co/X2Gdhht/weather-app-icon-4.png",
         "image": "https://i.ibb.co/db9W7pc/screencapture-weather-app-mahfuzurrahman01-vercel-app-2023-08-18-11-46-08.png",
         "description": "I Create a Weather App! For acquiring knowledge about the fundamentals of APIs, such as retrieving and presenting data on the user interface, these types of projects are good for JS Fundaments Skills. 🎯The Weather App is a web application that fetches real-time weather data from the OpenWeather API and presents it to the user. And I've tried to make a simple and cool UI. Using: NextJs, Typescript, tailwind, Open API",
-        "live": "https://weather-app-mahfuzurrahman01.vercel.app//",
-        "gitHubClient": "https://github.com/mahfuzurrahman01/weather-app"
+        "live": "",
+        "gitHubClient": ""
       },
       {
         "id": 3,
@@ -38,8 +38,8 @@
         "logo": "https://i.ibb.co/bJPBkmq/gitto-logo.png",
         "image": "https://i.ibb.co/0BqJGbK/gitt0.png",
         "description": "Introducing Gitto Profile, a delightful project I crafted using Next.js, TypeScript, and Tailwind CSS! 🚀</br> With Gitto Profile, users can effortlessly generate personalized GitHub profile cards by simply entering their GitHub username. This nifty tool then fetches and displays essential information from their GitHub profile in a visually appealing and concise format.",
-        "live": "https://gitto-profile.vercel.app/",
-        "gitHubClient": "https://github.com/mahfuzurrahman01/gitto-profile"
+        "live": "",
+        "gitHubClient": ""
       },
       {
         "id": 4,
@@ -50,8 +50,8 @@
         "image": "https://i.ibb.co/PchytgG/screencapture-password-mahfuzurrahman01-vercel-app-2023-03-31-23-14-42.png",
         "size": "banner",
         "description": "I am developing a web application that generates a strong and unique random password every time the user clicks on the 'generate' button. The application offers three options for the length of the generated password, allowing users to select a short, medium, or long password according to their specific requirements",
-        "live": "https://password-mahfuzurrahman01.vercel.app/",
-        "gitHubClient": "https://github.com/mahfuzurrahman01/random-strong-password-generator"
+        "live": "",
+        "gitHubClient": ""
       }
     ]
   },
@@ -70,9 +70,9 @@
         "logo": "https://i.ibb.co/qNXNYmR/d-vacuum.png",
         "image": "https://i.ibb.co/Y2pzt3b/screencapture-d-vacuum-a11-web-app-2023-03-25-23-51-25.png",
         "description": "D-vacuum is a B2C service project that aims to create a user-friendly website for a client's business. The website will enable the client to upload their services and allow customers to purchase/book any service they need. Additionally, every service will have a real-time review section where users can view others' reviews and add their own. Users can also modify their reviews as needed. Finally, the client can easily update their services as necessary to keep the website current and relevant.",
-        "live": "https://d-vacuum-a11.web.app/",
-        "gitHubClient": "https://github.com/mahfuzurrahman01/d-vacuum-client",
-        "gitHubServer": "https://github.com/mahfuzurrahman01/d-vacuum-server"
+        "live": "",
+        "gitHubClient": "",
+        "gitHubServer": ""
       },
       {
         "id": 2,
@@ -83,9 +83,9 @@
         "logo": "https://i.ibb.co/x82gKpd/V-Furniture.png",
         "image": "https://i.ibb.co/9GcG1V3/screencapture-v-furniture-ef0e9-web-app-2023-03-26-00-16-50.png",
         "description": "Urban Furniture is an e-commerce website that offers a personalized dashboard system based on the user's role. When creating an account, users can select whether they want to be a buyer or a seller, and their dashboard will reflect their choice. Additionally, the admin has a separate dashboard where they can manage sellers and buyers and get updates on the business. Sellers can easily update their products, edit their details, and boost them for better visibility on the front page. Buyers can add items to their cart, create a wishlist, and securely make payments via card payment.",
-        "live": "https://v-furniture-ef0e9.web.app/",
-        "gitHubClient": "https://github.com/mahfuzurrahman01/urban-furniture-client",
-        "gitHubServer": "https://github.com/mahfuzurrahman01/urban-furniture-server"
+        "live": "",
+        "gitHubClient": "",
+        "gitHubServer": ""
       }
     ]
   },
