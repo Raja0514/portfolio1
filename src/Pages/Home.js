@@ -8,9 +8,9 @@ import Hero from '../Components/Hero/Hero';
 import About from '../Components/About/About';
 import Portfolio from '../Components/Portfolio/Portfolio';
 import Skills from '../Components/Skills/Skills';
-import Testimonials from '../Components/testimonials/Testimonials';
+// import Testimonials from '../Components/testimonials/Testimonials';
 import Contact from '../Components/Contact/Contact';
-import { AiOutlineArrowUp } from 'react-icons/ai';
+// import { AiOutlineArrowUp } from 'react-icons/ai';
 
 const spinner = <CirclesWithBar
     height="110"
