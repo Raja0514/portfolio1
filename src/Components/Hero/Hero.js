@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import gif from '../../Assets/gif/my-gif2.gif'
 import { IoPaperPlaneOutline } from 'react-icons/io5'
-// import { BsLightbulb } from 'react-icons/bs';
-// import { AiOutlinePoweroff } from 'react-icons/ai';
+ import { BsLightbulb } from 'react-icons/bs';
+import { AiOutlinePoweroff } from 'react-icons/ai';
 import { motion } from 'framer-motion'
 const Hero = () => {
     const [lightMode, setLightMode] = useState(false)
