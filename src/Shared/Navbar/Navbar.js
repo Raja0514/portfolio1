@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import logo from '../../Assets/Logo/Logo.png'
 import { HiOutlineMenuAlt3 } from 'react-icons/hi'
-import { AiOutlineClose, AiOutlineContacts, AiOutlineHome } from 'react-icons/ai'
+import { AiOutlineClose, AiOutlineContacts, AiOutlineHome} from 'react-icons/ai'
 import { SiAboutdotme } from 'react-icons/si'
 import { BsBriefcase } from 'react-icons/bs'
 import { GiSkills } from 'react-icons/gi'
 // import { GrBlog } from 'react-icons/gr'
-import navbar from './Navbar.css'
+import './Navbar.css'
 const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false)
     return (
@@ -51,4 +51,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-
