@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import gif from '../../Assets/gif/my-gif2.gif'
 import { IoPaperPlaneOutline } from 'react-icons/io5'
-import { BsLightbulb } from 'react-icons/bs';
-import { AiOutlinePoweroff } from 'react-icons/ai';
+// import { BsLightbulb } from 'react-icons/bs';
+// import { AiOutlinePoweroff } from 'react-icons/ai';
 import { motion } from 'framer-motion'
 const Hero = () => {
     const [lightMode, setLightMode] = useState(false)
@@ -35,19 +35,19 @@ const Hero = () => {
 
                 <div className='md:w-[45%] w-11/12 flex flex-col items-center relative md:mt-0 mt-6'>
 
-                    {/* {
+                     {
                         lightMode && <div className='absolute md:w-96 w-72 h-5 shadow-xl shadow-amber-300 duration-300' style={{ backgroundColor: "#EBEBEB" }}>
                         </div>
-                    } */}
+                    } 
 
                     <img src={gif} alt="" className={`w-full md:h-96  `} />
 
 
-                    {/* <div className='flex justify-center items-center gap-4 duration-500'>
+                     <div className='flex justify-center items-center gap-4 duration-500'>
                         {
                             !lightMode ? <p onClick={() => setLightMode(!lightMode)} className='duration-300 flex justify-center items-center gap-1 border border-gray-400 text-gray-700 px-5 ml-2 cursor-pointer text-xs hover:bg-gray-400 hover:text-white mt-0 py-2 rounded-lg '>Turn on light <BsLightbulb className='text-amber-500' /></p> : <p onClick={() => setLightMode(!lightMode)} className=' flex justify-center items-center gap-1 border border-gray-400 text-gray-700 px-5 ml-2 cursor-pointer hover:bg-gray-400 hover:text-white duration-300 mt-0 py-2 rounded-lg text-xs'>Turn off light <AiOutlinePoweroff /></p>
                         }
-                    </div> */}
+                    </div> 
                 </div>
             </div>
 

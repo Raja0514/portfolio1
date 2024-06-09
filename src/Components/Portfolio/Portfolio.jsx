@@ -1,8 +1,8 @@
 import Title from '../../Shared/Title';
-import { CiGlobe, CiMonitor, CiViewTimeline } from 'react-icons/ci'
-import { useEffect, useState } from 'react';
+import { CiGlobe, CiMonitor} from 'react-icons/ci'
+import {useState } from 'react';
 import bg2 from '../../Assets/background/bg2.jpg'
-import bg3 from '../../Assets/background/bg3.jpg'
+// import bg3 from '../../Assets/background/bg3.jpg'
 import bg4 from '../../Assets/background/bg4.jpg'
 import PrimaryButton from '../../Shared/Button/PrimaryButton';
 import { Link } from 'react-router-dom';

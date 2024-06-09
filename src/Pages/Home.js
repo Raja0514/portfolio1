@@ -38,7 +38,7 @@ const Home = () => {
     useEffect(() => {
 
         if (localStorageItem !== "true") {
-            const subscript = setTimeout(() => {
+            setTimeout(() => {
                 setLoading(false)
                 localStorage.setItem("loaded", true)
             }, 5000);

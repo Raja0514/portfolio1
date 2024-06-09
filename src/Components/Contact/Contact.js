@@ -4,7 +4,7 @@ import Title from '../../Shared/Title';
 import emailjs from 'emailjs-com'
 import Swal from 'sweetalert2';
 import { BsFacebook, BsGithub, BsLinkedin } from 'react-icons/bs';
-import { FaDev } from 'react-icons/fa';
+// import { FaDev } from 'react-icons/fa';
 
 const Contact = () => {
     // Toast will shown on successfully sending message
