@@ -27,7 +27,7 @@ ul{
   
   ul:hover li a{
     opacity:0.3;
-    /* filter:blur(5px); */
+    filter:blur(5px);
   }
   
   ul li a:hover{

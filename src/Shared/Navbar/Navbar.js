@@ -6,7 +6,7 @@ import { SiAboutdotme } from 'react-icons/si'
 import { BsBriefcase } from 'react-icons/bs'
 import { GiSkills } from 'react-icons/gi'
 // import { GrBlog } from 'react-icons/gr'
-// import navbar from './Navbar.css'
+import navbar from './Navbar.css'
 const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false)
     return (
